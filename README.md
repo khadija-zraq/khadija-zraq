@@ -1,25 +1,25 @@
-<h1 align="center">Hi 👋, I'm Khadija Zraq</h1>
-<h3 align="center">Full-Stack Web Developer | Passionate about building modern web apps 🚀</h3>
+<h1 align="center">Bonjour 👋, je suis Khadija Zraq</h1>
+<h3 align="center">Développeuse Web Full-Stack | Passionnée par la création d'applications modernes 🚀</h3>
 
 ---
 
-### 👩‍💻 About Me
-- 💻 Web Developer specialized in modern technologies  
-- 🌱 Currently improving my skills in **React, Laravel & Node.js**  
-- 🎯 Goal: Build scalable and impactful web applications  
-- 📫 Reach me at: your-email@example.com  
+### 👩‍💻 À propos de moi
+- 💻 Développeuse Web spécialisée dans les technologies modernes  
+- 🌱 J'améliore actuellement mes compétences en **React, Laravel et Node.js**  
+- 🎯 Objectif : Concevoir des applications web performantes et évolutives  
+
 
 ---
 
-### 🛠️ Tech Stack
-- 💡 Frontend: HTML, CSS, JavaScript, React  
-- ⚙️ Backend: Laravel, Node.js  
-- 🗄️ Database: MySQL, MongoDB  
-- 🔧 Tools: Git, GitHub, VS Code  
+### 🛠️ Compétences techniques
+- 💡 Frontend : HTML, CSS, JavaScript, React  
+- ⚙️ Backend : Laravel, Node.js  
+- 🗄️ Base de données : MySQL, MongoDB  
+- 🔧 Outils : Git, GitHub, VS Code  
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Statistiques GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khadija-zraq&show_icons=true&theme=tokyonight" />
 </p>
@@ -31,8 +31,8 @@
 ---
 
 ### 🌸 Fun Fact
-I love learning new technologies and turning ideas into reality ✨
+J'aime apprendre de nouvelles technologies et transformer des idées en projets concrets ✨
 
 ---
 
-⭐️ From Khadija Zraq
+⭐️ Merci de visiter mon profil !
