@@ -19,16 +19,6 @@
 
 ---
 
-### 📊 Statistiques GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khadija-zraq&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khadija-zraq&theme=tokyonight" />
-</p>
-
----
 
 ### 🌸 Fun Fact
 J'aime apprendre de nouvelles technologies et transformer des idées en projets concrets ✨
